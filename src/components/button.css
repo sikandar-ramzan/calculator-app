@@ -1,0 +1,23 @@
+.bttn-default{
+    height: 50px;
+    width: 90px;
+    /* border: 1px solid white; */
+    /* border: 0.5px solid #181818; */
+
+    color: blanchedalmond;
+    padding: auto;
+    margin: 2px 2px;
+    background-color: #3c3b3f;
+    font-size: small;
+    /* gap: 5px 5px; */
+    
+}
+
+.bttn-default:hover{
+    background-color: #37353a;
+    
+}
+.bttn-default:active{
+    border: 0.3px solid #252526;
+    color: red;
+}
